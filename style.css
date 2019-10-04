@@ -1,0 +1,87 @@
+h1{
+	color: #FDFEFE;
+	border: solid black;
+	background-color: #5DADE2;
+}
+h2{
+	font-size: 25px;
+	color: white;
+	border: solid black;
+	background-color: #5DADE2;
+}
+.table{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color: white;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #AEB6BF;
+	background-color: #5DADE2;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right:50px;
+}
+.table2{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color: white;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #AEB6BF;
+	background-color: #5DADE2;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right:50px;
+}
+.table3{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color: white;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #AEB6BF;
+	background-color: #5DADE2;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right:50px;
+}
+.table4{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color: white;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #AEB6BF;
+	background-color: #5DADE2;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right:50px;
+}
+.table5{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color: white;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #AEB6BF;
+	background-color: #5DADE2;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-right:50px;
+}
+img{
+	height: 190px;
+	width: 200px;
+}
+iframe{
+	height: 190px;
+	width: 300px;
+}
+body{
+background-color: #8F53D8;
+}
